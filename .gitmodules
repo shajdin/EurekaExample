@@ -4,3 +4,6 @@
 [submodule "UserEurekaProject"]
 	path = UserEurekaProject
 	url = https://github.com/shajdin/UserEurekaProject
+[submodule "WebEurekaClient"]
+	path = WebEurekaClient
+	url = https://github.com/shajdin/WebEurekaClient
