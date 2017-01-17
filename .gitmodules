@@ -1,3 +1,6 @@
 [submodule "EurekaServer"]
 	path = EurekaServer
 	url = https://github.com/shajdin/EurekaServer
+[submodule "UserEurekaProject"]
+	path = UserEurekaProject
+	url = https://github.com/shajdin/UserEurekaProject
